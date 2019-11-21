@@ -1,0 +1,10 @@
+{
+  apps : [
+    {
+      name      : "cinema-movies",
+      script    : "npx",
+      interpreter: "none",
+      args: "serve -s"
+    }
+  ]
+}
